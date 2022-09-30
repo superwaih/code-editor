@@ -33,7 +33,7 @@ const Footer = () => {
         </svg>{" "}
         by{" "}
         <a
-          href="https://.in"
+          href="https://wale.vercel.app"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
