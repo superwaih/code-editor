@@ -41,7 +41,7 @@ const Footer = () => {
         </a>
         Code at{" "}
         <a
-          href="https://github.com/superwaih/react-code-editor"
+          href="https://github.com/superwaih/code-editor"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
